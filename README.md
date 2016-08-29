@@ -1,4 +1,4 @@
-# android-anim-viewpager-transitions
+# Android ViewPager transition animations
 Sample example for transitions between fragments within viewpager
 This sample project shows how to do screen slides within a ViewPager.
 
