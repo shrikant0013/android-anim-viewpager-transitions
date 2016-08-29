@@ -1,0 +1,25 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Slides</string>
+    <string name="title_screen_slide">Screen Slide</string>
+    <string name="action_toggle">Toggle indicator</string>
+    <string name="action_add_item">Add item</string>
+    <string name="action_remove_item">Remove item</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_next">Next</string>
+    <string name="action_n">Next</string>
+    <string name="action_finish">Finish</string>
+    <string name="action_info">Photo info</string>
+    <string name="action_photo">View photo</string>
+    <string name="title_template_step">Page <xliff:g id="step_number">%1$d</xliff:g>: Ferrari</string>
+
+    <string name="ferrari_f80_concept"><![CDATA[The LaFerrari took the world by storm with its amazing engineering and futuristic looks, leading to many assumptions and excitement on how Ferrari will top this. Ferrari decided not to let their fans wait for long and shared details on their new 2015 Ferrari F80 Concept. The competition all over the world in producing the fastest sports cars have been heating up with recent releases of new and unique styles paired with high performance. For a long time the Bugatti Veyron dominated the world when it comes to top speed and overall power. But with the new and emerging models, breaking the Veyron’s speed record is bound to happen.
+
+Ferrari S.p.A. is an Italian sports car manufacturer based in Maranello. Founded by Enzo Ferrari in 1939 as Auto Avio Costruzioni, the company built its first car in 1940. However, the companys inception as an auto manufacturer is usually recognized in 1947 when the first Ferrari-badged car was completed.
+
+Ferrari is the worlds most powerful brand.]]></string>
+
+    <string name="maserati"><![CDATA[Maserati is an Italian luxury vehicle manufacturer established on December 1, 1914, in Bologna. The Maserati tagline is "Luxury, sports and style cast in exclusive cars",[4] and the brands mission statement is to "Build ultra-luxury performance automobiles with timeless Italian style, accommodating bespoke interiors, and effortless, signature sounding power".
+
+The companys headquarters are now in Modena, and its emblem is a trident. It has been owned by the Italian–American car giant Fiat Chrysler Automobiles (FCA) and FCAs Italian predecessor Fiat S.p.A. since 1993. Maserati was initially associated with Ferrari S.p.A., which was also owned by FCA until being spun off in 2015, but more recently it has become part of the sports car group including Alfa Romeo and Abarth. In May 2014, due to ambitious plans and product launches, Maserati sold a record of over 3,000 cars. This caused them to increase production of the Quattroporte and Ghibli models.[6] In addition to the Ghibli and Quattroporte, Maserati offers the Maserati GranTurismo, the GranTurismo Convertible, and has confirmed that it will be offering the Maserati Levante, the first Maserati SUV, in 2016, and the Maserati Alfieri, a new 2+2 in 2016. Maserati is placing a production output cap at 75,000 vehicles globally.]]></string>
+</resources>
