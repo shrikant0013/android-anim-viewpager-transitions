@@ -5,7 +5,7 @@ This sample project shows how to do screen slides within a ViewPager.
 ## Project details
 * Creates a ScrollView with TexView within it
 * Creates a fragment
-* Adds a ViewPager within in Main Activity's layout
+* Adds a ViewPager in Main Activity's layout
 * Customizes the slide animation with PageTransformer
 	* Zoom-out page transformer
 
